@@ -14,11 +14,15 @@
 
 
 
+<<<<<<< HEAD
 #logo{
 object-fit: cover;
 margin-right: 10px;
 font-family  :'Times New Roman', Times, serif;
 }
+=======
+
+>>>>>>> 3df1a66883a7f62667995f7eaf855307eee81da1
 .portfolio-content #k1,#k2,#k3,#h1,#h2,#h3,#b1,#b2,#b3,#i1,#i2,#i3{
   width : 500px;
   height: 250px; /* Adjust the height as needed */
